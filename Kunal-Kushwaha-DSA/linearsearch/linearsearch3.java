@@ -2,7 +2,7 @@ package linearsearch;
 
 public class linearsearch3 {
     public static void main(String[] args) {
-        int arr[] = {12, 34, 56, 78, 90};
+        int arr[] = {134, 34, 56, 78, 90};
         System.out.println(min(arr));
 }
 static int min(int arr[]){
